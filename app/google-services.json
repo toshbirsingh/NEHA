@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530679541216",
+    "firebase_url": "https://neha-22b3c.firebaseio.com",
+    "project_id": "neha-22b3c",
+    "storage_bucket": "neha-22b3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530679541216:android:aadf45bbd51cf5af",
+        "android_client_info": {
+          "package_name": "app.papr.instalogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530679541216-mghjrfucrliaifcuifvm9sqmn0m28tm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.papr.instalogin",
+            "certificate_hash": "26088d251eebb53dc5815aff087b6bff053b4869"
+          }
+        },
+        {
+          "client_id": "530679541216-77e8clr0v2a85jc8pqb744sr29hjrgqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUt5yFk427iuocQ5hBM_mNeifYiyG9zH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530679541216-77e8clr0v2a85jc8pqb744sr29hjrgqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
